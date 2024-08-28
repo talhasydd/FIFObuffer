@@ -71,7 +71,7 @@ The testbench (`FIFObufferTB`) verifies the functionality of the FIFO buffer und
 
 ## Waveform Analysis
 
-The waveform demonstrates the following behaviors:
+The project also contains a .wcfg file that  demonstrates the following behaviors:
 
 1. **Write Operation**
    - `wr_data` incrementing from 0 to 15
